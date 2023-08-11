@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 public class P01_SpartanGetRequests {
 
-    String url = "http://44.201.221.73:8000";
+    String url = "http://35.175.242.41:8000";
 
     /*
      * Given content type is application/json
